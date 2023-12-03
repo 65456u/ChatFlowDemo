@@ -1,0 +1,4 @@
+uvicorn~=0.24.0.post1
+chatflow~=0.1.0
+fastapi~=0.104.1
+websockets~=12.0
